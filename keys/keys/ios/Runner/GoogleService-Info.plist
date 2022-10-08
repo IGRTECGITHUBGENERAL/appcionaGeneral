@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>27940180392-juh1evhsj02fodmn8s9gd01cmgek8ont.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.27940180392-juh1evhsj02fodmn8s9gd01cmgek8ont</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>27940180392-qg2affa8k7vffoq074l427dq606qrvf5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDid9CtMj5CCXfxxTGpL974GvFETJqvTog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27940180392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.igrtec.appciona</string>
+	<key>PROJECT_ID</key>
+	<string>appciona-d1353</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appciona-d1353.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27940180392:ios:0691a3d7534c045e1f8d9d</string>
+</dict>
+</plist>

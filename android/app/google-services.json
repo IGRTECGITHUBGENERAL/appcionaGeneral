@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "27940180392",
+    "project_id": "appciona-d1353",
+    "storage_bucket": "appciona-d1353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27940180392:android:8f67d0a0d92e9d0c1f8d9d",
+        "android_client_info": {
+          "package_name": "com.igrtec.appciona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27940180392-gm5757m7re15anigs2j2ech93fddci6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igrtec.appciona",
+            "certificate_hash": "5236776f3139d4c305e9d026a19d50aec5a9ce57"
+          }
+        },
+        {
+          "client_id": "27940180392-lggqnp7tlc0kknp78jup3g5l2a2mbjc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igrtec.appciona",
+            "certificate_hash": "7eb0150b839dcd96e0c45dcd000601446ec2648b"
+          }
+        },
+        {
+          "client_id": "27940180392-h9h25924s7pabjigt6bujmdrsuhiaaj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtr6up9CoGUzH2X56gz_IOd9ZRU_XwIsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27940180392-h9h25924s7pabjigt6bujmdrsuhiaaj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27940180392-juh1evhsj02fodmn8s9gd01cmgek8ont.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.igrtec.appciona"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
